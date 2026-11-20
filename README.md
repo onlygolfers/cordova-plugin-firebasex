@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Legacy — no longer maintained.** This plugin was only used by the old Cordova app (`mobile-app`).
+> The current Only Golfers apps do not use Cordova: they are native apps built in Swift (`app-ios`) and Android (`app-android`).
+
 # cordova-plugin-firebasex [![Latest Stable Version](https://img.shields.io/npm/v/cordova-plugin-firebasex.svg)](https://www.npmjs.com/package/cordova-plugin-firebasex) [![Total Downloads](https://img.shields.io/npm/dt/cordova-plugin-firebasex.svg)](https://npm-stat.com/charts.html?package=cordova-plugin-firebasex)
 
 Brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project.
